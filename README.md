@@ -1,0 +1,2 @@
+# Predicting-Bike-Rentals
+In this project we'll try to predict the total number of bikes people rented in a given hour. We use different regression algorithms (Linear Regression, Decision Trees and Random Forests) and try to reason why some perform better than others. Finally we perform Randomized Search to tune the hyper-parameters in our best performing algorithms. data set contains the hourly and daily count of rental bikes between years 2011 and 2012 in Capital bike-share system with the corresponding weather and seasonal information.
